@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+crouton # Replace with the correct version if known or remove if not applicable
